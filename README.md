@@ -1,13 +1,12 @@
+# E-BookStore
 # BookShoppingCartMvc
 
-BookShoppingCartMvc is a simple e-commerce application built with **ASP.NET Core MVC**. It was created to help beginners understand how an online shopping cart works and has been expanded into a basic online bookstore.
+E-BookStore is a simple online bookstore built with **ASP.NET Core MVC (.NET 9)**. It demonstrates the core features of an e-commerce application, including user authentication, shopping cart, order management, and an admin dashboard.
 
-The application allows users to browse books, add them to a shopping cart, place orders, and view their order history. It also includes an admin panel to manage books, genres, stock, and customer orders.
+This project is designed for learning and practicing ASP.NET Core MVC, Entity Framework Core, and SQL Server. It follows the MVC architecture and uses the Repository Pattern and Dependency Injection to keep the code organized and easy to maintain.
 
-This project is intended for learning and practicing ASP.NET Core MVC concepts. It does not include an online payment gateway and currently supports **Cash on Delivery (COD)** only.
+Customers can browse books, search by title or genre, add books to their shopping cart, place orders using **Cash on Delivery (COD)**, and view their order history. Administrators can manage books, genres, inventory, customer orders, and view sales reports.
 
-If you find this project useful, consider giving it a **Star** on GitHub.
-```
 
 ## Tech stack 
 
