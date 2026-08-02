@@ -150,16 +150,3 @@ password: Admin@123
 ![Top Selling Books](./screenshots/22%20top%20selling%20books.jpg)
 
 ## Thanks
-
-If you find this repository useful, then consider to leave a ⭐.
-
-Connect with me
-
-👉 YouTube: <https://youtube.com/@ravindradevrani>
-
-👉 Twitter: <https://twitter.com/ravi_devrani>
-
-Become a supporter ❣️:
-You can buy me a coffee 🍵 : <https://www.buymeacoffee.com/ravindradevrani>
-
-Thanks a lot 🙂🙂
