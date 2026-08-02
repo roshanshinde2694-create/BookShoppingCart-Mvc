@@ -1,5 +1,4 @@
 # E-BookStore
-# BookShoppingCartMvc
 
 E-BookStore is a simple online bookstore built with **ASP.NET Core MVC (.NET 9)**. It demonstrates the core features of an e-commerce application, including user authentication, shopping cart, order management, and an admin dashboard.
 
